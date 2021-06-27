@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    
+    <style name ="texts">
+        <item name ="android:layout_width">match_parent</item>
+		<item name ="android:gravity">center</item>
+        <item name ="android:fontFamily">sans-serif</item>
+		<item name ="android:layout_margin">4dp</item>
+        <item name ="android:textColor">@color/black</item>
+    </style>
+        
+    
+    <style name ="text_sobre_imc" parent = "texts">
+        <item name ="android:text">*O que é IMC:* O índice de massa corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal ou não. *Como é calculado o IMC:* O IMC é determinado pela divisão do peso, multiplicado pela altura ao quadrado, ou seja: peso / altura x altura. *Tabela do peso ideal:* A tabela do IMC serve para mostrar os resultados e se esse resultado é o peso ideal de uma pessoa ou não. (clique aqui para ver uma tabela IMC)</item>
+        <item name ="android:textSize">19dp</item>
+    </style>
+    
+    
+    <style name ="index_text_sobre_imc" parent ="texts">
+        <item name ="android:text">Antes de calcular o seu IMC, explicarei melhor o que é o IMC, como é realizado esse calculo, e sobre a tabela do peso ideal.</item>
+        <item name ="android:textSize">20dp</item>
+        <item name ="android:textStyle">bold</item>
+    </style>
+    
+    
+    <style name ="index_para_calcular" parent ="texts">
+        <item name ="android:text">Para calcular o seu IMC, preencha os campos abaixo:</item>
+        <item name ="android:textSize">20dp</item>
+        <item name ="android:textStyle">bold</item>
+    </style>
+
+</resources>
