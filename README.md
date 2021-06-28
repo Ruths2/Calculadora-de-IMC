@@ -27,5 +27,5 @@ App criador de logos disponivel na Play Store:
 
 ----
 
-# Estou somente com um pequeno detalhe que esta me incomodando neste app......no Edit text altura gostaria que o ponto (ou virgula) fosse automatico quando o usuario estivesse digitando, porem ja pesquisei bastante e não encontrei algo sobre. Se você souber como fazer e quiser ajudar uma garota que esta engatinhando ainda na programação, ficarei muito contente rsrs. 
+## Estou somente com um pequeno detalhe que esta me incomodando neste app......no Edit text altura gostaria que o ponto (ou virgula) fosse automatico quando o usuario estivesse digitando, porem ja pesquisei bastante e não encontrei algo sobre. Se você souber como fazer e quiser ajudar uma garota que esta engatinhando ainda na programação, ficarei muito contente rsrs. 
 Meu e-mail para contato: ruth09@yahoo.com  😊
